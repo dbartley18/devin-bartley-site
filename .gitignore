@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.production.local
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.DS_Store
+*.png
+.playwright-mcp/
+.superpowers/
